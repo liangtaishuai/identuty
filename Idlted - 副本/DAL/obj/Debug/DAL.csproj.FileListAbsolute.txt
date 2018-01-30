@@ -1,0 +1,14 @@
+E:\Myproject\Idlted\DAL\bin\Debug\DAL.dll
+E:\Myproject\Idlted\DAL\bin\Debug\DAL.pdb
+E:\Myproject\Idlted\DAL\bin\Debug\Model.dll
+E:\Myproject\Idlted\DAL\bin\Debug\Model.pdb
+E:\Myproject\Idlted\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Myproject\Idlted\DAL\obj\Debug\DAL.dll
+E:\Myproject\Idlted\DAL\obj\Debug\DAL.pdb
+E:\Myproject\Idlted - 副本\DAL\bin\Debug\DAL.dll
+E:\Myproject\Idlted - 副本\DAL\bin\Debug\DAL.pdb
+E:\Myproject\Idlted - 副本\DAL\bin\Debug\Model.dll
+E:\Myproject\Idlted - 副本\DAL\bin\Debug\Model.pdb
+E:\Myproject\Idlted - 副本\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Myproject\Idlted - 副本\DAL\obj\Debug\DAL.dll
+E:\Myproject\Idlted - 副本\DAL\obj\Debug\DAL.pdb

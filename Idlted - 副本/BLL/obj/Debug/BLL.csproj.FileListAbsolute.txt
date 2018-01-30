@@ -1,0 +1,18 @@
+E:\Myproject\Idlted\BLL\bin\Debug\BLL.dll
+E:\Myproject\Idlted\BLL\bin\Debug\BLL.pdb
+E:\Myproject\Idlted\BLL\bin\Debug\DAL.dll
+E:\Myproject\Idlted\BLL\bin\Debug\Model.dll
+E:\Myproject\Idlted\BLL\bin\Debug\DAL.pdb
+E:\Myproject\Idlted\BLL\bin\Debug\Model.pdb
+E:\Myproject\Idlted\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Myproject\Idlted\BLL\obj\Debug\BLL.dll
+E:\Myproject\Idlted\BLL\obj\Debug\BLL.pdb
+E:\Myproject\Idlted - 副本\BLL\bin\Debug\BLL.dll
+E:\Myproject\Idlted - 副本\BLL\bin\Debug\BLL.pdb
+E:\Myproject\Idlted - 副本\BLL\bin\Debug\DAL.dll
+E:\Myproject\Idlted - 副本\BLL\bin\Debug\Model.dll
+E:\Myproject\Idlted - 副本\BLL\bin\Debug\DAL.pdb
+E:\Myproject\Idlted - 副本\BLL\bin\Debug\Model.pdb
+E:\Myproject\Idlted - 副本\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Myproject\Idlted - 副本\BLL\obj\Debug\BLL.dll
+E:\Myproject\Idlted - 副本\BLL\obj\Debug\BLL.pdb

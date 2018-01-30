@@ -1,0 +1,87 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Head.master.cs" Inherits="Idlted.Head" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>南方废品收购</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="css/menu.css" rel="stylesheet" />
+<link href="css/bootstrap.min.css" rel="stylesheet"/>
+    <script src="js/ajax.js"></script>
+ <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script type="text/javascript">
+    function fileSelect() {
+        document.getElementById("FileUpload1").click();
+    }
+
+    function fileSelected() {
+        document.form1.submit();
+    }
+</script>
+</head>
+<body>
+     <nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.aspx">废品直卖网</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" >
+      <ul class="nav navbar-nav">
+        <li ><a href="#">我要卖废品 <span class="sr-only">(current)</span></a></li>
+        <li><a href="#">我要收废品</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">分类 <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <asp:Repeater ID="CommodityTypeRepeater" runat="server">
+             <ItemTemplate>
+            <li><a href="#"><%# Eval("CommodityTypeName") %></a></li>
+              </ItemTemplate>
+             </asp:Repeater>
+          </ul>
+        </li>
+      </ul>
+      <form class="navbar-form navbar-left">
+        <div class="form-group">
+          <input type="text" class="form-control"  placeholder="梁佳辉签名照"/>
+        </div>
+        <button type="button" class="btn btn-default">查询</button>
+          </form>
+      <ul class="nav navbar-nav navbar-right">
+        <li><asp:HyperLink ID="Hyperlogin"  NavigateUrl="~/login.aspx" runat="server">
+            <asp:Label ID="Lablogin" runat="server" Text="登录"></asp:Label></asp:HyperLink></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">个人资料 <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><asp:HyperLink ID="Hypeprofile" NavigateUrl="~/login.aspx" runat="server">我的资料</asp:HyperLink></li>
+            <li><asp:HyperLink ID="Hypeorder" NavigateUrl="~/login.aspx" runat="server">我的订单</asp:HyperLink></li>
+            <li><asp:HyperLink ID="Hypesell" NavigateUrl="~/login.aspx" runat="server">我的出售</asp:HyperLink></li>
+            <li role="separator" class="divider"></li>
+            <li>
+                <asp:HyperLink ID="HyperLink1" NavigateUrl="#" OnClick="LinkButton1_Click1" runat="server">退出登录</asp:HyperLink>
+               </li>
+          </ul>
+        </li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+    <div style="width:100%;height:40%;">
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+</body>
+</html>

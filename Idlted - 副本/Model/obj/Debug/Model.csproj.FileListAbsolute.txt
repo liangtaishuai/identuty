@@ -1,0 +1,10 @@
+E:\Myproject\Idlted\Model\bin\Debug\Model.dll
+E:\Myproject\Idlted\Model\bin\Debug\Model.pdb
+E:\Myproject\Idlted\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\Myproject\Idlted\Model\obj\Debug\Model.dll
+E:\Myproject\Idlted\Model\obj\Debug\Model.pdb
+E:\Myproject\Idlted - 副本\Model\bin\Debug\Model.dll
+E:\Myproject\Idlted - 副本\Model\bin\Debug\Model.pdb
+E:\Myproject\Idlted - 副本\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\Myproject\Idlted - 副本\Model\obj\Debug\Model.dll
+E:\Myproject\Idlted - 副本\Model\obj\Debug\Model.pdb

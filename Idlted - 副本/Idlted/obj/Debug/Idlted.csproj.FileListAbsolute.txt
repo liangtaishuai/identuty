@@ -1,0 +1,78 @@
+E:\Myproject\Idlted\Idlted\bin\ApplicationInsights.config
+E:\Myproject\Idlted\Idlted\bin\roslyn\csc.exe
+E:\Myproject\Idlted\Idlted\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Myproject\Idlted\Idlted\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Myproject\Idlted\Idlted\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Myproject\Idlted\Idlted\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Myproject\Idlted\Idlted\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Myproject\Idlted\Idlted\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Myproject\Idlted\Idlted\bin\roslyn\System.Collections.Immutable.dll
+E:\Myproject\Idlted\Idlted\bin\roslyn\System.Reflection.Metadata.dll
+E:\Myproject\Idlted\Idlted\bin\roslyn\vbc.exe
+E:\Myproject\Idlted\Idlted\bin\roslyn\VBCSCompiler.exe
+E:\Myproject\Idlted\Idlted\bin\roslyn\VBCSCompiler.exe.config
+E:\Myproject\Idlted\Idlted\bin\Idlted.dll.config
+E:\Myproject\Idlted\Idlted\bin\Idlted.dll
+E:\Myproject\Idlted\Idlted\bin\Idlted.pdb
+E:\Myproject\Idlted\Idlted\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Myproject\Idlted\Idlted\bin\Microsoft.AI.DependencyCollector.dll
+E:\Myproject\Idlted\Idlted\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Myproject\Idlted\Idlted\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Myproject\Idlted\Idlted\bin\Microsoft.AI.Web.dll
+E:\Myproject\Idlted\Idlted\bin\Microsoft.AI.WindowsServer.dll
+E:\Myproject\Idlted\Idlted\bin\Microsoft.ApplicationInsights.dll
+E:\Myproject\Idlted\Idlted\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Myproject\Idlted\Idlted\bin\Microsoft.AI.DependencyCollector.xml
+E:\Myproject\Idlted\Idlted\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Myproject\Idlted\Idlted\bin\Microsoft.AI.Web.xml
+E:\Myproject\Idlted\Idlted\bin\Microsoft.AI.WindowsServer.xml
+E:\Myproject\Idlted\Idlted\bin\Microsoft.ApplicationInsights.xml
+E:\Myproject\Idlted\Idlted\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Myproject\Idlted\Idlted\obj\Debug\Idlted.csprojResolveAssemblyReference.cache
+E:\Myproject\Idlted\Idlted\obj\Debug\Idlted.dll
+E:\Myproject\Idlted\Idlted\obj\Debug\Idlted.pdb
+E:\Myproject\Idlted\Idlted\bin\BLL.dll
+E:\Myproject\Idlted\Idlted\bin\Model.dll
+E:\Myproject\Idlted\Idlted\bin\DAL.dll
+E:\Myproject\Idlted\Idlted\bin\BLL.pdb
+E:\Myproject\Idlted\Idlted\bin\Model.pdb
+E:\Myproject\Idlted\Idlted\bin\DAL.pdb
+E:\Myproject\Idlted - 副本\Idlted\obj\Debug\Idlted.csprojResolveAssemblyReference.cache
+E:\Myproject\Idlted - 副本\Idlted\obj\Debug\Idlted.dll
+E:\Myproject\Idlted - 副本\Idlted\obj\Debug\Idlted.pdb
+E:\Myproject\Idlted - 副本\Idlted\bin\ApplicationInsights.config
+E:\Myproject\Idlted - 副本\Idlted\bin\roslyn\csc.exe
+E:\Myproject\Idlted - 副本\Idlted\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Myproject\Idlted - 副本\Idlted\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Myproject\Idlted - 副本\Idlted\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Myproject\Idlted - 副本\Idlted\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Myproject\Idlted - 副本\Idlted\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Myproject\Idlted - 副本\Idlted\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Myproject\Idlted - 副本\Idlted\bin\roslyn\System.Collections.Immutable.dll
+E:\Myproject\Idlted - 副本\Idlted\bin\roslyn\System.Reflection.Metadata.dll
+E:\Myproject\Idlted - 副本\Idlted\bin\roslyn\vbc.exe
+E:\Myproject\Idlted - 副本\Idlted\bin\roslyn\VBCSCompiler.exe
+E:\Myproject\Idlted - 副本\Idlted\bin\roslyn\VBCSCompiler.exe.config
+E:\Myproject\Idlted - 副本\Idlted\bin\Idlted.dll.config
+E:\Myproject\Idlted - 副本\Idlted\bin\Idlted.dll
+E:\Myproject\Idlted - 副本\Idlted\bin\Idlted.pdb
+E:\Myproject\Idlted - 副本\Idlted\bin\BLL.dll
+E:\Myproject\Idlted - 副本\Idlted\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Myproject\Idlted - 副本\Idlted\bin\Microsoft.AI.DependencyCollector.dll
+E:\Myproject\Idlted - 副本\Idlted\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Myproject\Idlted - 副本\Idlted\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Myproject\Idlted - 副本\Idlted\bin\Microsoft.AI.Web.dll
+E:\Myproject\Idlted - 副本\Idlted\bin\Microsoft.AI.WindowsServer.dll
+E:\Myproject\Idlted - 副本\Idlted\bin\Microsoft.ApplicationInsights.dll
+E:\Myproject\Idlted - 副本\Idlted\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Myproject\Idlted - 副本\Idlted\bin\Model.dll
+E:\Myproject\Idlted - 副本\Idlted\bin\DAL.dll
+E:\Myproject\Idlted - 副本\Idlted\bin\BLL.pdb
+E:\Myproject\Idlted - 副本\Idlted\bin\Model.pdb
+E:\Myproject\Idlted - 副本\Idlted\bin\Microsoft.AI.DependencyCollector.xml
+E:\Myproject\Idlted - 副本\Idlted\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Myproject\Idlted - 副本\Idlted\bin\Microsoft.AI.Web.xml
+E:\Myproject\Idlted - 副本\Idlted\bin\Microsoft.AI.WindowsServer.xml
+E:\Myproject\Idlted - 副本\Idlted\bin\Microsoft.ApplicationInsights.xml
+E:\Myproject\Idlted - 副本\Idlted\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Myproject\Idlted - 副本\Idlted\bin\DAL.pdb
